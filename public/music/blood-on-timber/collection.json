@@ -1,0 +1,58 @@
+{
+    "album": "Blood on Timber",
+    "image": "http://localhost:4000/assets/music/blood-on-timber/cover.png",
+    "download": "http://localhost:4000/assets/music/blood-on-timber/blood-on-timber.zip",
+    "tracks": [
+      { 
+        "track": 1,
+        "title": "Beneath the Well, The Eye", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Beneath-the-Well-the-Eye.mp3"
+      },
+      { 
+        "track": 2,
+        "title": "Gather", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Gather.mp3"
+      },
+      { 
+        "track": 3,
+        "title": "His Hand Still Trembles", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/His-Hand-Still-Trembles.mp3"
+      },
+      { 
+        "track": 4,
+        "title": "Last Shelter", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Last-Shelter.mp3"
+      },
+      { 
+        "track": 5,
+        "title": "Only the Bones Remembered", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Only-the-Bones-Remembered.mp3"
+      },
+      { 
+        "track": 6,
+        "title": "Roots Where Men Once Stood", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Roots-Where-Men-Once-Stood.mp3"
+      },
+      { 
+        "track": 7,
+        "title": "Sanctify", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Sanctify.mp3"
+      },
+      { 
+        "track": 8,
+        "title": "Then Suffer", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Then-Suffer.mp3"
+      },
+      { 
+        "track": 9,
+        "title": "Vow Carved Too Deep", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Vow-Carved-Too-Deep.mp3"
+      },
+      { 
+        "track": 10,
+        "title": "Walls to Crumble", 
+        "source": "http://localhost:4000/assets/music/blood-on-timber/Walls-to-Crumble.mp3"
+      }
+    ]
+  }
+  

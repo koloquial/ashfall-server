@@ -1,0 +1,58 @@
+{
+    "album": "Scars Upon Stone",
+    "image": "http://localhost:4000/assets/music/scars-upon-stone/cover.png",
+    "download": "http://localhost:4000/assets/music/scars-upon-stone/scars-upon-stone.zip",
+    "tracks": [
+      { 
+        "track": 1,
+        "title": "Breath Before the Burn", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Breath-Before-the-Burn.mp3"
+      },
+      { 
+        "track": 2,
+        "title": "Built to Forget, Broken to Recall", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Built-to-Forget-Broken-to-Recall.mp3"
+      },
+      { 
+        "track": 3,
+        "title": "Drawn into the Quiet", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Drawn-into-the-Quiet.mp3"
+      },
+      { 
+        "track": 4,
+        "title": "Flame Beneath the Bark", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Flame-Beneath-the-Bark.mp3"
+      },
+      { 
+        "track": 5,
+        "title": "Forged from Soot", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Forged-from-Soot.mp3"
+      },
+      { 
+        "track": 6,
+        "title": "He Paid in Ash, Not Gold", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/He-Paid-in-Ash-Not-Gold.mp3"
+      },
+      { 
+        "track": 7,
+        "title": "No Second Ashfall", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/No-Second-Ashfall.mp3"
+      },
+      { 
+        "track": 8,
+        "title": "Sigil upon Marrow", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Sigil-Upon-Marrow.mp3"
+      },
+      { 
+        "track": 9,
+        "title": "The Choir Without Mouths", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/The-Choir-Without-Mouths.mp3"
+      },
+      { 
+        "track": 10,
+        "title": "Watched the Light Die Twice", 
+        "source": "http://localhost:4000/assets/music/scars-upon-stone/Watched-the-Light-Die-Twice.mp3"
+      }
+    ]
+  }
+  
